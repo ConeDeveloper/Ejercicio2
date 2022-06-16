@@ -1,0 +1,23 @@
+const datos = { 
+    Nombre: "Emiliano Luis Perez", 
+    Edad: 31, 
+    Isdeveloper: false,
+    Nacimiento: new Date("September 4 1990"),
+    Libro: {
+        Titulo: "En Cambio",
+        Autor: "Estanislao Bachrach",
+        Fecha: new Date("march 25 2009"),
+        url: "www.listado.mercadolibre.com.ar/en-cambio-estanislao-bachrach-libro"
+    }
+}
+
+const nombre = ["Emiliano Luis Perez"];
+const edad = [31];
+const desarrollador = [false];
+const nacimiento = new Date("September 4 1990");
+const libro = {
+    Titulo: "En Cambio",
+    Autor: "Estanislao Bachrach",
+    Fecha: new Date("march 25 2009"),
+    url: "www.listado.mercadolibre.com.ar/en-cambio-estanislao-bachrach-libro"
+}
